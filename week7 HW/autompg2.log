@@ -1,0 +1,10 @@
+auto-mpg.clean.txt exits
+Parsing auto-mpg.clean.txt into AutoMPG objects
+auto-mpg.clean.txt exits
+Parsing auto-mpg.clean.txt into AutoMPG objects
+getting auto-mpg.data.txt
+Starting new HTTPS connection (1): autompgdata.azurewebsites.net:443
+https://autompgdata.azurewebsites.net:443 "GET /api/assignment7data HTTP/1.1" 200 None
+Responce code: 200
+auto-mpg.clean.txt exits
+Parsing auto-mpg.clean.txt into AutoMPG objects
